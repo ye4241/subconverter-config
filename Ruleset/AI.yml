@@ -5,3 +5,5 @@ payload:
   - '+.bard.google.com'
   - '+.grazie.ai'
   - '+.grazie.aws.intellij.net'
+  - '+.anthropic.com'
+  - 'claude.ai'
