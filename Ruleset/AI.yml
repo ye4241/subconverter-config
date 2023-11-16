@@ -1,6 +1,7 @@
 payload:
   - '+.openai.com'
   - 'cdn.oaistatic.com'
+  - 'files.oaiusercontent.com'
   - '+.ai.com'
   - '+.bing.com'
   - '+.bard.google.com'
