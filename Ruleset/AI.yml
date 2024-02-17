@@ -5,6 +5,7 @@ payload:
   - '+.ai.com'
   - '+.bing.com'
   - '+.bard.google.com'
+  - '+.gemini.google.com'
   - '+.grazie.ai'
   - '+.grazie.aws.intellij.net'
   - '+.anthropic.com'
